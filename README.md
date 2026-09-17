@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Sai Somasekhar
 
-<!--
-**Saisomasekhar/Saisomasekhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☁️ AWS DevOps Engineer | AWS | Terraform | Kubernetes | Docker | CI/CD | DevSecOps
 
-Here are some ideas to get you started:
+I am an **AWS DevOps Engineer** with hands-on experience in designing, automating, deploying, and monitoring cloud infrastructure and applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on building **secure, scalable, highly available, and automated AWS environments** using Infrastructure as Code, containerization, Kubernetes, CI/CD, and DevSecOps practices.
+
+## 🚀 About Me
+
+- ☁️ AWS DevOps Engineer
+- 🏗️ Building highly available AWS infrastructure
+- 🔧 Infrastructure as Code with Terraform
+- 🐳 Containerization with Docker
+- ☸️ Kubernetes & Amazon EKS
+- 🔄 CI/CD with GitHub Actions
+- 🔐 DevSecOps with SonarQube, Trivy and AWS security services
+- 📊 Monitoring with Prometheus and Grafana
+
+---
+
+# 🤝 Let's Connect
+
+I'm interested in opportunities related to:
+
+* AWS DevOps Engineer
+* Cloud Engineer
+* DevOps Engineer
+* AWS Cloud Infrastructure
+* Platform Engineering
+
+### 📫 Connect With Me
+
+**LinkedIn:** www.linkedin.com/in/saisomasekhars
+
+**GitHub:** https://github.com/
+
+---
